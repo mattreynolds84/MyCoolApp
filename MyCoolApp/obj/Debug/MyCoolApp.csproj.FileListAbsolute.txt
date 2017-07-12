@@ -4,3 +4,9 @@ c:\users\matthew.reynolds\documents\visual studio 2017\Projects\MyCoolApp\MyCool
 c:\users\matthew.reynolds\documents\visual studio 2017\Projects\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.csprojResolveAssemblyReference.cache
 c:\users\matthew.reynolds\documents\visual studio 2017\Projects\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.exe
 c:\users\matthew.reynolds\documents\visual studio 2017\Projects\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.pdb
+C:\Users\matthew.reynolds\Documents\GitHub\MyCoolApp\MyCoolApp\bin\Debug\MyCoolApp.exe.config
+C:\Users\matthew.reynolds\Documents\GitHub\MyCoolApp\MyCoolApp\bin\Debug\MyCoolApp.exe
+C:\Users\matthew.reynolds\Documents\GitHub\MyCoolApp\MyCoolApp\bin\Debug\MyCoolApp.pdb
+C:\Users\matthew.reynolds\Documents\GitHub\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.csprojResolveAssemblyReference.cache
+C:\Users\matthew.reynolds\Documents\GitHub\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.exe
+C:\Users\matthew.reynolds\Documents\GitHub\MyCoolApp\MyCoolApp\obj\Debug\MyCoolApp.pdb
