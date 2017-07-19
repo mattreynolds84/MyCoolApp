@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -21,5 +22,25 @@ namespace MyCoolApp
         }
 
         public bool IsMale { get; set; }
+
+        public static Person CreateNew()
+        {
+            var result = new Person();
+            return result;
+        }
+
+        public int GetAge()
+        {
+            return 1;
+        }
     }
+
+    public static class PersonExtensions
+    {
+        public static void AddYears(this Person person, int yearsToAdd)
+        {
+            person.Age += yearsToAdd;
+        }
+    }
+
 }

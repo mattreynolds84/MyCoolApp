@@ -36,9 +36,10 @@ namespace MyCoolApp
             {
                 var person = new Person();
                 person.Age = 32;
-                person.FirstName = $"Matt{i}";
-                person.LastName = "Reynolds";
+                person.FirstName = "Matt";
+                person.LastName = $"Reynolds{i}";
                 results.Add(person);
+
             }
 
             return results;
